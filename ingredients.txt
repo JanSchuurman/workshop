@@ -4,4 +4,6 @@ Salt
 Honey
 Pepper
 Curcuma
+Oranges
+Pears
 
